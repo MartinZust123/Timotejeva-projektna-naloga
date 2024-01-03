@@ -57,7 +57,20 @@ smo jih vzeli premajhni, da bi iz njih lahko potegnili smiselne zaključke.
 
 \subsection{Indeks srečnosti}
 
-Za prebivalce mesta Kibergrad definiramo indeks srečnosti družine. Srečnost družine je linearno odvisna od števila otrok, ki jih imajo. Poleg tega vpliv 
-izobrazbe na srečnost sledi gostoti normalne porazdelitve. 
+Za prebivalce mesta Kibergrad definiramo indeks srečnosti družine. Srečnost družine sem definiral s pomočjo lastnega občutka. Tako sem se držal principa, da 
+vsak otrok pripomore k dodatni sreči družine. Z drugimi besedami, srečnost družine je linearno odvisna od števila otrok, ki jih ima družina. Po drugi strani se mi zdi, da niti previsoka 
+niti prenizka izobrazba nista dobri za človekovo srečo. Tako je faktor, ki ga prispeva izobrazba največji pri povprečni izobrazbi. Kot zadnje pa sem pri indeksu srečnosti upošteval tudi 
+prihodek, ki ga ima družina. Večji dohodek pripomore k večji srečnosti, vendar ne linaerno. Pri dohokdu od 0 do povprečnega dohodka srečnost raste eksponentno z večanjem dohodka. Ko pa je dohodek 
+večji od povprečnega, pa ta na srečnost vpliva logaritemsko. 
+
+Definirajmo vse skupaj bolj matematično. Označimo z $otr(D)$ število otrok, ki jih ima družina $D$. Nadalje z $izo(D)$ označimo najvišjo izobrazbo družine $D$ in z $doh(D)$ letni 
+dohodek družine. Za definicijo indeksa srečnosti $S(D)$ potrebujemo še dve funkciji. Prva je funkcija $f(x)$, ki opisuje vpliv dohodka na srečnost:
+$$
+f(x) =
+\begin{cases}
+    2^{x/u_{doh}}; & \text{če } x < u_{doh} \\
+    2 + \log_2 (1 + \frac{x - u_{doh}}{u_{doh}}); & \text{če } x \geq u_{doh}
+\end{cases}
+$$ 
 
 \end{document}
