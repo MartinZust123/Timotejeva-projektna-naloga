@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.20)  4 JAN 2024 07:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.20)  4 JAN 2024 08:11
 entering extended mode
 **"c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poročilo.tex"
 ("c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poročilo.tex"
@@ -406,41 +406,44 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
  ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Reference `fig:slika3' on page 2 undefined on input line 75.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
-[2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+) [2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.76 \end{document}
-                    <c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/vzorci_severne_cetrti.png>] [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
+l.76 
+      <c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/vzorci_severne_cetrti.png>]
+<funkcija_v_odvisnosti_od_dohodka.png, id=45, 395.3169pt x 302.0886pt>
+File: funkcija_v_odvisnosti_od_dohodka.png Graphic file (type png)
+<use funkcija_v_odvisnosti_od_dohodka.png>
+Package pdftex.def Info: funkcija_v_odvisnosti_od_dohodka.png  used on input line 80.
+(pdftex.def)             Requested size: 316.25394pt x 241.67119pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.98 \end{document}
+                    <c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/funkcija_v_odvisnosti_od_dohodka.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  ("c:/Users\marti\OneDrive\Dokumenti\Statistika\Timotejeva projektna naloga\poročilo.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `poročilo.out' has not changed.
 (rerunfilecheck)             Checksum: C43DD3D3A0AF449CF0208673C4115146;202.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 7781 strings out of 480790
- 115020 string characters out of 2907054
- 387148 words of memory out of 3000000
- 23619 multiletter control sequences out of 15000+200000
- 569308 words of font info for 49 fonts, out of 3000000 for 9000
+ 7786 strings out of 480790
+ 115240 string characters out of 2907054
+ 387203 words of memory out of 3000000
+ 23623 multiletter control sequences out of 15000+200000
+ 566313 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,9n,31p,408b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
-Output written on "c:/Users\marti\OneDrive\Dokumenti\Statistika\Timotejeva projektna naloga\poročilo.pdf" (3 pages, 150881 bytes).
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy7.pfb>
+Output written on "c:/Users\marti\OneDrive\Dokumenti\Statistika\Timotejeva projektna naloga\poročilo.pdf" (3 pages, 173210 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 35 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 

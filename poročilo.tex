@@ -68,9 +68,40 @@ dohodek družine. Za definicijo indeksa srečnosti $S(D)$ potrebujemo še dve fu
 $$
 f(x) =
 \begin{cases}
-    2^{x/u_{doh}}; & \text{če } x < u_{doh} \\
-    2 + \log_2 (1 + \frac{x - u_{doh}}{u_{doh}}); & \text{če } x \geq u_{doh}
+    2^{x/\mu_{doh}}; & \text{če } x < \mu_{doh} \\
+    2 + \log_2 (1 + \frac{x - \mu_{doh}}{\mu_{doh}}); & \text{če } x \geq \mu_{doh}
 \end{cases}
 $$ 
-Pri tem $u_{doh}$ označuje poprečen letni dohodek v mestu Kibergrad. Graf te funkcije je prikazan na sliki \ref{fig:slika3}.
+Pri tem $\mu_{doh}$ označuje poprečen letni dohodek v mestu Kibergrad. Graf te funkcije je prikazan na sliki \ref{fig:slika3}.
+
+\begin{figure}[H]
+    \caption{Funkcija $f(x)$ za faktor dohodka}
+    \centering
+    \includegraphics[scale=0.8]{funkcija_v_odvisnosti_od_dohodka.png}
+    \label{fig:slika3}
+\end{figure}
+
+Druga pa je funkcija $g(x)$, ki opisuje vpliv izorazbe na srečnost. Definirana je kot gostota normalne porazdelitve:
+
+$$
+g(x) = \frac{1}{\sqrt{2 \pi \sigma_{izo}^2}} e^{-\frac{(x-\mu_{izo})^2}{2 \sigma_{izo}^2}}
+$$
+Pri tem je $\sigma_{izo}$ standardni odklon stopnje izobrazbe na podatkih mesta Kibergrad. Ko imamo definirani funkciji $f(x)$ in $g(x)$,
+lahko definiramo indeks srečnosti:
+
+$$
+S(D) = otr(D) \cdot f(doh(D)) \cdot (g(izo(D)) + 20)
+$$
+
+Pri tej definiciji je veliko družin, katerih srečnost je 0, ker imajo 0 otrok. Dobimo porazdelitev srečnosti, ki je prikazana na histogramu \ref{fig:slika4}.
+
+\begin{figure}[H]
+    \caption{Histogram srečnosti v mestu Kibergrad}
+    \centering 
+    \includegraphics[scale=0.8]{histogram_srecnosti.png}
+    \label{fig:slika4}
+\end{figure}
+
+Zanimala bi nas tudi srečnost v odvisnosti od dohodka. V tem primeru dobimo graf na sliki \ref{fig:slika5}.
+
 \end{document}
