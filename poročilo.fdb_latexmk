@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1704352298 "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.tex" "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.pdf" "poroèilo" 1704352300
+["pdflatex"] 1704353178 "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.tex" "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.pdf" "poroèilo" 1704353180
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1254935040 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1254935040 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1254935040 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -12,6 +12,7 @@
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/lm/ec-lmbx10.tfm" 1254935040 12076 b54175e02101bea1addf6b2d0197ed12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/ec-lmbx12.tfm" 1254935040 12088 d750ac78274fa7c9f73ba09914c04f8a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/ec-lmr10.tfm" 1254935040 12056 7e13df7fe4cbce21b072ba7c4f4deb6e ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/ec-lmr12.tfm" 1254935040 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
@@ -27,6 +28,7 @@
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/rm-lmr10.tfm" 1254935040 11868 4f81e9b6033c032bdaf9884f4d7ef412 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/rm-lmr5.tfm" 1254935040 11804 aefb10c002e6492c25236524a447f969 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/rm-lmr7.tfm" 1254935040 11852 5a9022f105fd1ee2797df861e79ae9a0 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb" 1254935040 121021 836464b5fe0c782d94085eb083550ccc ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1254935040 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb" 1254935040 23055 2e5b42921de910eaa97b85df04ca4891 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi10.pfb" 1254935040 30388 702fae6a5f0e6e9c48a1d872b442ffcf ""
@@ -102,10 +104,11 @@
   "C:/Users/marti/AppData/Roaming/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty" 1575399536 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "C:/Users/marti/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/marti/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
-  "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.aux" 1704352299 1775 fcda9d119b462189abe36593357f031d ""
-  "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.tex" 1704352296 4463 716855219b01dbc04f65a573f98ac6a6 ""
+  "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.aux" 1704353180 2006 e4ee783b02b7ecce003afccd92d326dc ""
+  "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.tex" 1704353175 4842 4928b27aba099f596c56dce785027b95 ""
   "dohodki_po_cetrtih.png" 1704187949 16456 00ca902b55c4a93d170a322f7c00819c ""
   "funkcija_v_odvisnosti_od_dohodka.png" 1704351105 21376 6f13f0751f3246b76deb2bc663bbcf83 ""
+  "histogram_srecnosti.png" 1704352364 11337 b937f1cffb0f99336395239918aa5eed ""
   "vzorci_severne_cetrti.png" 1704188724 18923 38a56b0fcfc54339d1bacf24f158bd78 ""
   (generated)
   "c:/Users/marti/OneDrive/Dokumenti/Statistika/Timotejeva projektna naloga/poroèilo.log"
